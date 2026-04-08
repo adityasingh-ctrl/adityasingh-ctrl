@@ -1,0 +1,323 @@
+    1  ssh centos@
+    2  ssh centos@192.168.1.66
+    3  cd /c/
+    4  cd Users/adity/Downloads/
+    5  cd VMS/vagrant-vms/vms
+    6  cd VMS/vagrant-vms/ubuntu
+    7  ls
+    8  vagrant list
+    9  vagrant --list
+   10  vagrant box list 
+   11  vagrant global-status
+   12  cd /c/downloads
+   13  cd /c
+   14  cd download
+   15  cd /user
+   16  ls
+   17  cd Users/adity/Downloads/
+   18  cd VMS/vagrant-vms/centos/
+   19  vagrant init 
+   20  vagrant init eurolinux-vagrant/centos-stream-9 --box-version 9.0.48
+   21  vagrant init eurolinux-vagrant/centos-stream-9 --box-version 9.0.48
+   22  cat Vagrantfile 
+   23  vagrant up
+   24  vagrant ssh
+   25  vagrant up
+   26  vagrant ssh
+   27  vagrant ssh
+   28  vagrant ssh
+   29  vagrant up
+   30  vagrant ssh
+   31  vagrant ssh
+   32  vagrant ssh
+   33  :qa
+   34  logout
+   35  cd /c/users/adity/
+   36  ls
+   37  cd downloads
+   38  cd VMS/vagrant-vms/centos
+   39  vagrant up 
+   40  vagrant ssh
+   41  vagrant ssh
+   42  vagrant ssh
+   43  vagrant down
+   44  vagrant rdp
+   45  vagrant ssh
+   46  cd ../
+   47  ssh centos@192.168.1.66
+   48  ls
+   49  cd c
+   50  cd /c
+   51  cd Users/adity/
+   52  ls
+   53  ls
+   54  cd /c
+   55  cd Development/
+   56  ls
+   57  cd react-redux-saga/
+   58  ls
+   59  cd redux
+   60  cd ../
+   61  rm -rf budget-react/
+   62  rm -rf budget-react/
+   63  ls
+   64  rm -rf budget-react/
+   65  ls
+   66  cd ../
+   67  git clone https://github.com/SwiftNextStep/budget-react.git
+   68  git chekckout 8f58d0f5f4442afdb2daaaf6bf45d9b40909dd51
+   69  git checkout 8f58d0f5f4442afdb2daaaf6bf45d9b40909dd51
+   70  cd budget-react/
+   71  git checkout 8f58d0f5f4442afdb2daaaf6bf45d9b40909dd51
+   72  git checkout -b copy
+   73  cd ../
+   74  cd ../
+   75  cd Development/
+   76  ls
+   77  cd budget-react
+   78  ls
+   79  code .
+   80  cd src
+   81  ls
+   82  cd ../../
+   83  mv budget-react/src/components/  react-redux-saga/
+   84  cd react-redux-saga/
+   85  ls
+   86  mv components/ redux/src
+   87  cd redux
+   88  ls
+   89  cd src
+   90  ls
+   91  cd ../
+   92  code .
+   93  cd ../
+   94  cd ../
+   95  ls
+   96  cd budget-react/
+   97  ls
+   98  cd src
+   99  ls
+  100  cp -r App.js /c/Development/react-redux-saga/src/
+  101  cp -r App.js /c/Development/react-redux-saga/redux/src/
+  102  cd C:\Users\adity\Downloads\VMS\vagrant-vms
+  103  cd c:
+  104  cd Users/adity/Downloads/VMS/vagrant-vms/
+  105  cd centos
+  106  vagrant up 
+  107  vagrant ssh
+  108  cd DownloDS
+  109  CD DOWNLOADS
+  110  ls
+  111  cd C
+  112  cd c:
+  113  ls
+  114  cd download
+  115  cd users
+  116  ls
+  117  cd adity/
+  118  la
+  119  ls
+  120  cd OneDrive/
+  121  ls
+  122  cd ../
+  123  cd Downloads/
+  124  cd VMS/
+  125  cd vagrant-vms/
+  126  cd c
+  127  cd centos/
+  128  vagrant up 
+  129  vagrant ssh
+  130  ls
+  131  cd vagrantfile
+  132  code vagrantfile
+  133  vagrant reload
+  134  vagrant up 
+  135  vagrant sshs
+  136  vagrant ssh
+  137  ls -a
+  138  cd /vagrant
+  139  ls
+  140  touch file{1..20}.txt
+  141  ls
+  142  rm -rf file*
+  143  ls
+  144  vagrant global-status
+  145  vagrant ssh
+  146  vagrant reload
+  147  vagrant up 
+  148  vagrant ssh
+  149  vagrant box list
+  150  vagrant ssh
+  151  vagrant ssh
+  152  vagrant up 
+  153  vagarnt ssh 
+  154  vagrant ssh
+  155  vagrant halt 
+  156  vagarnt ssh 
+  157  vagrant up 
+  158  vagrant up 
+  159  vagrant ssh 
+  160  vagrant ssh
+  161  vagrant ssh 
+  162  vagrant ssh
+  163  cd /c
+  164  ls
+  165  clear
+  166  cd ../
+  167  cd ~
+  168  ls
+  169  cd OneDrive/
+  170  ls
+  171  cd desktop
+  172  clear
+  173  git clone https://github.com/babuaditya/portfolio-web
+  174  cd po
+  175  cd portfolio-web/
+  176  pnpm i
+  177  clear
+  178  cd ~
+  179  cd OneDrive/
+  180  cd Documents/
+  181  la
+  182  la
+  183  cd /C:\Users\adity\Downloads\VMS\vagrant-vms\centos
+  184  cd c
+  185  cd ~
+  186  cd c
+  187  ls
+  188  cd us
+  189  cd c:
+  190  cd Users/adity/Downloads/VMS/vagrant-vms/centos
+  191  vagrant up 
+  192  vagrant ssh 
+  193  cd Downloads/
+  194  ls
+  195  cd 4.WebsiteSetupManual
+  196  ls
+  197  cd *
+  198  l
+  199  ls
+  200  cd WindowsAndMacIntel/
+  201  ls
+  202  vagrant up 
+  203  vagrant ssh
+  204  vagrant ssh
+  205  vgarant ssh
+  206  vagrannt ssh
+  207  history
+  208  vgarant ssh
+  209  vgarant ssh
+  210  vagrant ssh
+  211  vagrant ssh
+  212  ls
+  213  vagrant ssh
+  214  vagrant ssh
+  215  vagrant ssh
+  216  clear
+  217  vagrant ssh
+  218  git login 
+  219  git config --global user.email "aditya.krsingh0721@google.com"
+  220   git config --global user.name "Aditya Singh"
+  221  vagrant reload
+  222  cd Downloads/
+  223  cd 4.WebsiteSetupManual
+  224  cd 4.
+  225  cd 4.WebsiteSetupManual/
+  226  ls
+  227  cd WindowsAndMacIntel/
+  228  ls
+  229  clear
+  230  vagrant reload
+  231  vagrant ssh
+  232  vagrant ssh
+  233  vagrant ssh
+  234  clear
+  235  vagrant ssh
+  236  vagrant ssh
+  237  clear
+  238  ls
+  239  vagrant restart
+  240  vagrant ssh
+  241  clear
+  242  ls
+  243  ls
+  244  clear
+  245  vagrant ssh
+  246  ls
+  247  cd Downloads/
+  248  cd 4.WebsiteSetupManual
+  249  cd 4.WebsiteSetupManual/
+  250  ls
+  251  cd WindowsAndMacIntel/
+  252  ls
+  253  clear
+  254  vagrant ssh
+  255  vagrant reload
+  256  vagrant ssh
+  257  vagrant ssh
+  258  cd ~/Downloads/4.WebsiteSetupManual/4.WebsiteSetupManual/WindowsAndMacIntel
+  259  vagrant ssh
+  260  vagrant ssh
+  261  vagrant ssh
+  262  cd ~/Downloads/4.WebsiteSetupManual/4.WebsiteSetupManual/WindowsAndMacIntel
+  263  vagrant ssh
+  264  vagrant ssh
+  265  vagrant ssh
+  266  vagrant relaod
+  267  vagrant reload
+  268  vagrant ssh
+  269  vagrant up
+  270  vagrant ssh
+  271  vagrant ssh
+  272  clear
+  273  clear
+  274  vagrant ssh
+  275  vagrant ssh
+  276  vagrant reload
+  277  vagrant up
+  278  vagrant ssh
+  279  vagrant ssh
+  280  cd Downloads/
+  281  cd 4.WebsiteSetupManual
+  282  cd 4.WebsiteSetupManual/
+  283  ls
+  284  cd WindowsAndMacIntel/
+  285  ls
+  286  vagrant up 
+  287  vagrant up
+  288  cd Downloads/
+  289  cd 4.WebsiteSetupManual
+  290  cd 4.WebsiteSetupManual/
+  291  ls
+  292  cd WindowsAndMacIntel/
+  293  vagrant up
+  294  vagrant ssh
+  295  cd Downloads/Add1/4.WebsiteSetupManual/
+  296  ls
+  297  cd WindowsAndMacIntel/
+  298  vagrant up 
+  299  vagrant ssh
+  300  vagrant ssh
+  301  vagrant ssh
+  302  ssh ip172-18-0-9-d2nbnvgl2o9000c9iku0@direct.labs.play-with-docker.com
+  303  ssh ip172-18-0-9-d2nbnvgl2o9000c9iku0@direct.labs.play-with-docker.com
+  304  ssh ip172-18-0-9-d2nbnvgl2o9000c9iku0@direct.labs.play-with-docker.com
+  305  ssh ip172-18-0-9-d2nbnvgl2o9000c9iku0@direct.labs.play-with-docker.com
+  306  cd Downloads/
+  307  mkdir profile
+  308  cd profile/
+  309  code .
+  310  git commit --ammend -m "chore(0000): Renaming commit message"
+  311  git commit --amend -m "chore(0000): Renaming commit message"
+  312  clear
+  313  git commit --amend --author="adityasingh-ctrl aditya.singh@p99soft.com"
+  314  git commit --amend --author="adityasingh-ctrl aditya.singh@p99soft.com"
+  315  git commit --amend --author="adityasingh-ctrl <aditya.singh@p99soft.com>"
+  316  git push
+  317  git push -f
+  318  clear
+  319  git switch -c test
+  320  ls
+  321  cat readme.md 
+  322  touch adi.txt
+  323  history>>adi.txt
